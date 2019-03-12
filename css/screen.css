@@ -91,6 +91,7 @@ h1,h2,h3{
     color: #17181A;
 }
 h1 {
+    font-family: "Playfair Display", serif;
     font-size: 36px;
     line-height: 40px;
     margin: 0 0 24px;
