@@ -35,7 +35,7 @@
 @font-face {
     font-family: "Droid Serif";
     font-weight: 400;
-    font-style: italic;
+    font-style: BoldItalic;
     src: url("../fonts/DroidSerif-BoldItalic-webfont.woff");
 }
 /*
@@ -304,6 +304,20 @@ a:focus {
     }
 }
 
+/*
+
+Components:
+quote
+
+*/
+.c-quote {
+    font-family: "Droid Serif", serif;
+    color: #00B37D;
+    padding: 24px 24px 24px;
+    margin: 48px -24px 48px;
+    background-color: #F2FAF8;
+
+}
 /*
 
 Components:
